@@ -76,7 +76,13 @@ node tesLogika-4.js
 
 -   dibuat menggunakan HTML, CSS, Bootstrap, dan library sweetalert2
 -   file halaman web utama adalah index.html yang terletak di dalam folder 2.frontend-test
--   cara maenjalankannya adalah :
+-   cara menjalankannya adalah :
+
     -   pull / clone / download seluruh folder 2.frontend-test
     -   buka file index.html menggunakan browser (chrome recommended)
+    -   pastikan mengizinkan akses kamera untuk menangkap gambar
     -   sudah bisa digunakan sesuai design userflow figma
+
+-   cara lain yang lebih mudah adalah dengan mengklik lik pada bawah section about
+
+![link-website](./assets-README.md/5.menjalankan-web.png "link-website")
