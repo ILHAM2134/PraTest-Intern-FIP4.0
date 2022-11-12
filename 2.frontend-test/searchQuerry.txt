@@ -1,0 +1,37 @@
+list querry pencarian google :
+
+1. bootstrap 5
+
+2. iphone 8 viewport
+
+3. html hide vertical scrollbar
+
+4. button hover
+
+5. mouseover pointer
+
+6. dom onclick
+
+7. js dom redirect page
+
+8. sweetalert2 library
+
+9. js set timeout
+
+10. html web take picture
+
+11. js take picture in web page
+
+12. getElementByTagName
+
+13. context.drawImage
+
+14. html save capturing img to localStorage
+
+15. html take webcam picture and save to local storage
+
+16. visibility hidden
+
+17. display none
+
+18. upload img in web and save to localstorage

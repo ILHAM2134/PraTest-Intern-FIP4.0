@@ -1,0 +1,59 @@
+list querry pencarian google :
+
+1. invite email to github repo
+
+2. get user input in nodejs console
+
+3. split some js string to one array element
+
+4. js array contain
+
+5. js array include()
+
+6. is element include is insensitive case js
+
+7. js include more than 1 elements
+
+8. js access foreach index
+
+9. js string length
+
+10. access string first character
+
+11.js check if string contains number
+
+12. js check if string contains capital and lowercase
+
+13. regex checking string
+
+14. js regex min max char
+
+15. how to use break in if else
+
+16. apa itu bilangan cacah ?
+
+17. js map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- definisi N
+- perulangan N kali
+- 

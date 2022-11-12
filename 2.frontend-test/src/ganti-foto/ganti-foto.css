@@ -1,0 +1,90 @@
+body {
+	background-color: #212121;
+	font-family: "Nunito", sans-serif;
+}
+
+#container {
+	width: 375px;
+	height: 667px;
+}
+
+header {
+	width: 375px;
+	height: 56px;
+	background: #002984;
+}
+
+img[alt="arrow"] {
+	left: 17px;
+	top: 18px;
+}
+
+img[alt="arrow"]:hover {
+	opacity: 0.7;
+	font-weight: 900;
+	cursor: pointer;
+}
+
+button:hover {
+	opacity: 0.7;
+	font-weight: 900;
+}
+
+header > h1 {
+	width: 200px;
+	height: 33px;
+	left: 55px;
+	top: 12px;
+	font-size: 24px;
+	line-height: 33px;
+}
+
+#photo-block {
+	width: 343px;
+	height: 343px;
+	left: 15px;
+	top: 72px;
+	background: #e0e0e0;
+	box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+	border-radius: 8px;
+}
+
+#kamera {
+	width: 341px;
+	height: 40px;
+	left: 17px;
+	top: 449px;
+	font-size: 12px;
+	line-height: 16px;
+	background: #006c84;
+	box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+	border-radius: 8px;
+}
+
+#galeri {
+	width: 341px;
+	height: 40px;
+	left: 17px;
+	top: 505px;
+	font-size: 12px;
+	line-height: 16px;
+	background: #006c84;
+	box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+	border-radius: 8px;
+}
+
+#simpan {
+	width: 375px;
+	height: 44px;
+	top: 623px;
+	background: #e0e0e0;
+	box-shadow: 4px 4px 8px rgba(0, 41, 132, 0.25);
+	font-size: 12px;
+	line-height: 16px;
+	color: #757575;
+}
+
+button:hover {
+	font-weight: 900;
+	opacity: 0.7;
+}
